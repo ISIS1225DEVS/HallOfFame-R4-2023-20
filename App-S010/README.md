@@ -1,3 +1,3 @@
 # INTEGRANTES
 <!-- aqui van los nombres de los integrantes -->
-TODO
+Nicolás González, Juan Pablo Rivera
