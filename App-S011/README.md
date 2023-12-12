@@ -1,3 +1,4 @@
 # INTEGRANTES
-<!-- aqui van los nombres de los integrantes -->
-TODO
+Juan Diego Diaz Villanueva
+Anderson Jair Mesa Trujillo
+Camilo Andres Tellez Sanguino
